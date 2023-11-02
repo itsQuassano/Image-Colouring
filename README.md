@@ -47,5 +47,6 @@ Provide the file path to the black and white image you want to colorize in the i
 
 Run the code, and it will display the original, grayscale, and colorized versions of the input image in a graphical window.
 
-Conclusion
+Conclusion :
+
 This code showcases how to use OpenCV and Caffe to colorize black and white images. By following the provided documentation and making the necessary preparations, you can bring life and color to your monochrome photos.
